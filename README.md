@@ -1,4 +1,4 @@
 https://njball.github.io/ShrinkingArcticSeaIce/
 
-# ShrinkingArcticSeaIce
+# Shrinking Arctic Sea Ice
 When will the Arctic become Antarctic?
